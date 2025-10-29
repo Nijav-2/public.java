@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Odd or Even {
+public class main {
     public static void main(String[] args) {
         System.out.println("Enter a number: ");
         Scanner sc = new Scanner(System.in);
@@ -10,4 +10,5 @@ public class Odd or Even {
             System.out.println("The number is odd");
         }
     }
+
 }
